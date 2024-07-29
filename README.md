@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cobaltmaster
 - 👀 I’m interested in ... Arduino/electronics/programming
-- 🌱 I’m currently learning ... Arduino/Node JS/HTML
+- 🌱 I’m currently learning ... Arduino/Node JS/HTML/Android studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
